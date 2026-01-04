@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Hello, my name is Arsen. I'm backend .NET programmer from Russia.
+
+
 <!--
 **Senchi-bit/Senchi-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
